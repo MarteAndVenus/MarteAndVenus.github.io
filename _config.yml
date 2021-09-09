@@ -23,7 +23,7 @@ email: morelos.i.aaron@gmail.com
 #
 github_username: MarteAndVenus
 codepen_username: AaronMorelos
-dev_username: AaronMorelos
+dev_username:
 linkedin_username: Luis Aaron Morelos Islas
 twitter_username: 404
 
@@ -43,7 +43,7 @@ about_me_description: Hola mi nombre es Luis Aarón Morelos Islas, tengo 26 año
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
+skills_title: Habilidades
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -87,7 +87,7 @@ contact_description: Para más información te invito a echarle un ojo a mi repo
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: MarteAndVenus/MarteAndVenus.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
