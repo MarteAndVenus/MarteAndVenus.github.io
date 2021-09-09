@@ -1,0 +1,42 @@
+# > name: Name of your programming language
+# > weight: Describes how good you know the language - values from 1 up to 5
+#
+# Example of a Language
+# - name: Language
+#   weight: 5
+
+- name: Python
+  weight: 5
+
+- name: R
+  weight: 4
+
+- name: RapidMiner
+  weight: 2
+
+- name: SPSS
+  weight: 4
+
+- name: SPSS Modeler
+  weight: 3
+
+- name: Qlik Sense
+  weight: 3
+
+- name: Power BI
+  weight: 1
+
+- name: Tableau
+  weight: 1
+
+- name: Excel VBA
+  weight: 1
+
+- name: Java
+  weight: 1
+
+- name: C
+  weight: 2
+
+- name: Microsoft Azure
+  weight: 2

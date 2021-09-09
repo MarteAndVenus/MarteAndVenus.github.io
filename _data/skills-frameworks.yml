@@ -1,0 +1,33 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Relational data base and No relational database
+#   weight: 5
+
+- name: Teradata
+  weight: 5
+
+- name: MySql
+  weight: 3
+
+- name: SqlServer
+  weight: 4
+
+- name: BigQuery
+  weight: 1
+
+- name: MongoDB
+  weight: 2
+
+- name: Cassandra
+  weight: 3
+
+- name: Sqlite
+  weight: 1
+
+- name: Cloud
+  weight: 2
+
+- name: Oracle
+  weight: 4
