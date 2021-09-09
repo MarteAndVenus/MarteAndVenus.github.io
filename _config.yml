@@ -25,7 +25,7 @@ github_username: MarteAndVenus
 codepen_username: AaronMorelos
 dev_username: AaronMorelos
 linkedin_username: Luis Aaron Morelos Islas
-twitter_username: Aarón Morelos
+twitter_username: 404
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Acerca de mi.
 # about_me_description: This will be displayed under the title.
-about_me_description: Hola mi nombre es Luis Aarón Morelos Islas, tengo 26 años y me apasiona la tecnología, la data sceince e implementar proyectos en ambientes productos, comerciales o de impacto social. Te invito a echarle un ojo en los proyectos donde que he desarrollado. Gracias!!! <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Hola mi nombre es Luis Aarón Morelos Islas, tengo 26 años y me apasiona la tecnología, la data sceince e implementar proyectos en ambientes productos, comerciales o de impacto social. Te invito a echarle un ojo en los proyectos donde que he desarrollado. Gracias!!! <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a> También puedes encontrarme en <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
 # show_skills_card:
